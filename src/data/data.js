@@ -1,6 +1,6 @@
 let items=[
     {
-        avatar:'./images/Camille/CamillePhotoprincipale.png',
+        avatar:'./images/Camille/CamillePhotoPrincipale.png',
         fullname:'Camille Tard',
         email: 'camille.tard@elinoi.com',
         tele: '06 06 06 06 06',
@@ -32,7 +32,7 @@ let items=[
         },
     },
     {
-        avatar:'./images/Cecile/CecilePhotoprincipale.png',
+        avatar:'./images/Cecile/CecilePhotoPrincipale.png',
         fullname:'Cecile Chevallier',
         email: 'cecile.chevallier@elinoi.com',
         tele: '06 06 06 06 06',
@@ -63,7 +63,7 @@ let items=[
         },
     },
     {
-        avatar:'./images/Margaux/MargauxPhotoprincipale.png',
+        avatar:'./images/Margaux/MargauxPhotoPrincipale.png',
         fullname:'Margaux Fered',
         email: 'margaux.feredj@elinoi.com',
         tele: '06 06 06 06 06',
