@@ -1,6 +1,6 @@
 let items=[
     {
-        avatar:'./images/Camille/CamillePhotoPrincipale.png',
+        avatar:'./images/Camille/CamillePhotoprincipale.png',
         fullname:'Camille Tard',
         email: 'camille.tard@elinoi.com',
         tele: '06 06 06 06 06',
