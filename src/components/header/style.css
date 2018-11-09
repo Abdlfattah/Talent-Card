@@ -1,0 +1,20 @@
+
+.header{
+    
+    margin-top: 0;
+    justify-content: center;
+    display: flex;
+    height:90px;
+    line-height: 90px
+}
+.header img{
+    width: 100px;
+    height: 100px;
+}
+
+.header div{
+    vertical-align: middle;
+    color: #4D626F;
+    size: 18;
+    font-weight: 700
+}

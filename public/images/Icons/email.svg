@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.872 18.302">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="email" transform="translate(0 -59.733)">
+    <g id="Groupe_2" data-name="Groupe 2" transform="translate(0 59.733)">
+      <g id="Groupe_1" data-name="Groupe 1" transform="translate(0 0)">
+        <path id="Tracé_1" data-name="Tracé 1" class="cls-1" d="M22.678,59.733H1.194A1.194,1.194,0,0,0,0,60.927V76.841a1.194,1.194,0,0,0,1.194,1.194H22.678a1.194,1.194,0,0,0,1.194-1.194V60.927A1.194,1.194,0,0,0,22.678,59.733Zm.4,17.108a.4.4,0,0,1-.4.4H1.194a.4.4,0,0,1-.4-.4V60.927a.4.4,0,0,1,.4-.4H22.678a.4.4,0,0,1,.4.4Z" transform="translate(0 -59.733)"/>
+        <path id="Tracé_2" data-name="Tracé 2" class="cls-1" d="M54.459,93.867a.4.4,0,0,0-.29.092l-9.179,7.711a.8.8,0,0,1-1.024,0l-9.179-7.711a.4.4,0,0,0-.512.61l9.179,7.71a1.589,1.589,0,0,0,2.047,0l9.179-7.71a.4.4,0,0,0-.221-.7Z" transform="translate(-32.541 -92.274)"/>
+        <path id="Tracé_3" data-name="Tracé 3" class="cls-1" d="M40.067,272.935a.4.4,0,0,0-.384.124l-5.57,5.968a.4.4,0,1,0,.582.543l5.57-5.968a.4.4,0,0,0-.2-.666Z" transform="translate(-32.415 -262.985)"/>
+        <path id="Tracé_4" data-name="Tracé 4" class="cls-1" d="M341.9,273.058a.4.4,0,1,0-.582.543l5.57,5.968a.4.4,0,0,0,.582-.543Z" transform="translate(-325.293 -262.985)"/>
+      </g>
+    </g>
+  </g>
+</svg>
